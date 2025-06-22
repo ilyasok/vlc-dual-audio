@@ -1,5 +1,6 @@
 # Usage:
 `python vlc-dub.py <video_folder> <dub_folder>`
+
 EXAMPLE:
 `python vlc-dub.py "C:\movies\bladerunner" "C:\dubs\bladerunner"`
 
